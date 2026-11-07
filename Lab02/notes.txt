@@ -1,1 +1,2 @@
 Pierwsze repo w Gitcie
+Lokalna zmiana w Lab02
